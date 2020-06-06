@@ -1,0 +1,18 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "This is a notes-app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "console.table": "^0.10.0",
+    "validator": "^13.0.0",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {}
+}
